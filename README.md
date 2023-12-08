@@ -14,6 +14,6 @@ In this study, we sequenced PBMCs from uninfected and Sindbis virus-infected mic
 
 ====
 Processing pipeline:
-(1) FASTQ files 
-(2) Run cellranger count for alignment, filtering, barcode counting etc --> filtered_feature_bc_matrix
-(3) Run seurat pipeline in R
+* FASTQ files
+* Run cellranger count for alignment, filtering, barcode counting etc --> filtered_feature_bc_matrix
+* Run seurat pipeline in R
